@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./spot-sdk/python/bosdyn-client/src"
+    ]
+}
